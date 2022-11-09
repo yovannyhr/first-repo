@@ -1,3 +1,7 @@
 #My First .gitignore
 
 Logs
+
+*.exe
+
+.DS_Store
