@@ -1,1 +1,1 @@
-void func() ;
+Bool func() ;
