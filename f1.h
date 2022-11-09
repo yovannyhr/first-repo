@@ -1,1 +1,1 @@
-Bool func() ;
+MainFunction() ;
