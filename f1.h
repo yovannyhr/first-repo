@@ -1,1 +1,1 @@
-MAINFUNC() ;
+MAINFUNC()
