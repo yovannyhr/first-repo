@@ -1,1 +1,1 @@
-MAINFUNC()
+Int Main()
